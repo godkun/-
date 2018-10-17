@@ -1,0 +1,23 @@
+{
+  "name": "vue-style",
+  "version": "1.0.0",
+  "description": "vue-style 是一个基于Vue2.0框架的web UI组件库",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/godkun/vue-style.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/godkun/vue-style/issues"
+  },
+  "homepage": "https://github.com/godkun/vue-style#readme"
+}
