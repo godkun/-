@@ -19,5 +19,9 @@
   "bugs": {
     "url": "https://github.com/godkun/vue-style/issues"
   },
-  "homepage": "https://github.com/godkun/vue-style#readme"
+  "homepage": "https://github.com/godkun/vue-style#readme",
+  "dependencies": {
+    "lodash": "^4.17.11",
+    "vue": "^2.5.17"
+  }
 }
